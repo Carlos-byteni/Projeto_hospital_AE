@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+#*
+# Ignorar carpetas __pycache__
+__pycache__/
+
+# Ignorar entornos virtuales
+env/
+ven_app2/
